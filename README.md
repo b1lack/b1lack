@@ -18,7 +18,10 @@ Here are some ideas to get you started:
   <h2 align="center">b1lack</h2>
   <p align="center">Because of ignorance, so knowledge.</p>
 </p>
-[b1lack](https://github-profile-trophy.vercel.app/?username=b1lack)
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=b1lack">
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1lack">
 </p>
