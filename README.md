@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-stats.vercel.app/api?username=b1lack&show_icons=true&theme=radical&hide=contribs,prs">
 </p>
 <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1lack&theme=radical">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1lack&theme=radical&hide=javascript,html">
 </p>
