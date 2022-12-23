@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img  src="https://github-profile-trophy.vercel.app/?username=b1lack">
+  <img  src="https://github-profile-trophy.vercel.app/?username=b1lack&theme=radical">
 </p>
 <p>
-  <img  src="https://github-readme-stats.vercel.app/api?username=b1lack&show_icons=true&theme=radical">
+  <img  src="https://github-readme-stats.vercel.app/api?username=b1lack&show_icons=true&theme=radical&hide=contribs,prs">
 </p>
