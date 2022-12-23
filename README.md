@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <p align="center">Because of ignorance, so knowledge.</p>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=b1lack">
+<p>
+  <img  src="https://github-profile-trophy.vercel.app/?username=b1lack">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1lack">
+  <img  src="https://github-readme-stats.vercel.app/api?username=b1lack">
 </p>
