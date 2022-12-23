@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <h2 align="center">b1lack</h2>
   <p align="center">Because of ignorance, so knowledge.</p>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1lack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1lack)](https://github.com/b1lack/github-readme-stats)
