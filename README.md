@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <h2 align="center">b1lack</h2>
   <p align="center">Because of ignorance, so knowledge.</p>
 </p>
-[![b1lack's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1lack)]
+[b1lack's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1lack)]
