@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <p>
   <img  src="https://github-profile-trophy.vercel.app/?username=b1lack">
 </p>
-<p align="center">
+<p>
   <img  src="https://github-readme-stats.vercel.app/api?username=b1lack">
 </p>
