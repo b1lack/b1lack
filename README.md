@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img wigth="140" src="https://avatars.githubusercontent.com/u/67159619?s=400&u=fcd5951e312d4ac346beafd850f404dbcb259956&v=4">
+  <h2 align="cneter">b1lack</h2>
+  <p align="center">Because of ignorance, so knowledge.</p>
+</p>
