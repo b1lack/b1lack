@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img wigth="140" src="https://avatars.githubusercontent.com/u/67159619?s=400&u=fcd5951e312d4ac346beafd850f404dbcb259956&v=4">
+  <img wigth="140" src="https://avatars.githubusercontent.com/u/67159619?s=40&v=4">
   <h2 align="center">b1lack</h2>
   <p align="center">Because of ignorance, so knowledge.</p>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1lack)](https://github.com/anuraghazra/github-readme-stats)
